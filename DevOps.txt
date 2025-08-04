@@ -1,0 +1,44 @@
+DevOps:
+->It is a methodology which tells us how to approach for a problem statement.
+->DevOps = Devolopment + operations
+->It is a culture + set of practices + tools that help developers and operations.
+->work together, instead of working in silos.
+BENEFITS:
+->releases the features faster.(like adding new payment methods in Zomato)
+->Fix bugs quickly.
+->Automate repetitive tasks.
+DevOps LIFE CYCLE:
+->It has 8 phases:
+
+    PHASE      DESCRIPTION
+
+Plan       Define what to build.
+Develop    Write the code.
+Build      Compile code into deployable format.
+Testing    Check for bugs automatically.
+Release    Approve the build for deployement.
+Deploy     Push app to servers or app store.
+Operate    Keep app running, fix any issues.
+Monitor    Analyze performance and feedback.
+#cycle continues: Feedback from Users -> back to plan.
+
+
+GitHub Basics:
+
+What is Git and GitHub:
+   It is  a version control system which is used to track the files and manage the projects within your local system.
+   It is a  container which is used to store porjects online by using repositories(directories).
+    eg, If you are working with a team online shopping website, you add a "wishlist page", your friend adds "product ratings".
+        GitHub helps merge, track, and resolve conflicts if both change same code.
+
+
+
+Q1)
+Create a GitHub account and Create a repository with readly file and upload a basic file named Hello.txt, edit the file through GitHub's web interface, commit the changes, and view the commit history. Share the link to Your repository after completion.
+      How to upload a file 
+           Inside your repo, click  "Add file" ->   "upload files"
+
+
+
+
+
